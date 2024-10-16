@@ -8,7 +8,7 @@ Open ```tutorial.ipynb``` in a jupyter notebook, check if needed https://docs.ju
 
 ## Note
 
-Version 5, Date September 15, 2023.
+Version 6, Date October 16, 2024.
 
 ## Contact
 
